@@ -36,6 +36,7 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "Python.python.exe.executor": "Run",
+    "Python.Дз.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/student/Documents/GitHub/Base_Python"
