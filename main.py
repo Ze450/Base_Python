@@ -86,3 +86,43 @@
 #print('                       when')
 #print('                             you\'re busy making other plans"')
 #print('                                                              John Lennon')
+#Условные конструкции
+#if (условие) == True
+#     функция действие
+#age = int(input("Введите ваш возраст:"))
+#if 0< age < 10 :
+#     print('Ты еще малышь')
+#elif age < 20 and age > 10:
+#    print('Ты взрослый')
+#elif 20 < age < 45:
+#    print('Ты не молодой')
+#elif 45 < age < 100:
+#     print('Ты старик')
+#else:
+#     print('вы уже взрослый')
+# 1 задание
+# num_1 = int(input("Введите первое число: "))
+# num_2 = int(input("Введите второе число: "))
+# num_3 = int(input("Введите третье число: "))
+# num_4 = int(input("Выберите: 1 или 2, (сложение или умножение) "))
+# if num_4 == 1 or 2:
+#      pass
+# if num_4 == 2:
+#      result_2 = num_1 * num_2 * num_3
+#      print(":", result_2)
+#
+# if num_4 == 1:
+#      result_1 = num_1 + num_2 + num_3
+#      print(":", result_1)
+# 2 задание
+num_1 = int(input("Введите первое число: "))
+num_2 = int(input("Введите второе число: "))
+num_3 = int(input("Введите третье число: "))
+num_4 = int(input("Выберите: 1 или 2, (максимальное число или ср арифиметическое) "))
+if num_4 == 1 or 2:
+      pass
+if num_4 == 2:
+     result_2 = (num_1 + num_2 + num_3)/3
+     print(":", result_2)
+if num_4 == 1:
+     if num_1 > num_2
