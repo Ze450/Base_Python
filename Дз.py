@@ -25,4 +25,4 @@ print("Площадь ромба равна:", area)
 # 4 задание
 print("To be", "or not", "to be", sep='\n', end=' ')
 # 5 задание
-print('Life is what happens', '                    when', '                         you re busy making other plans', '                                                        John Lennon', sep='\n')
+print('Life is what happens', '                    when', '                         you`re busy making other plans', '                                                        John Lennon', sep='\n')
