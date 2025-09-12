@@ -38,20 +38,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "Python.python.exe.executor": "Run",
-    "Python.Дз.executor": "Run",
-    "Python.да.executor": "Run",
-    "Python.дз. 09.09.2025.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/student/Documents/GitHub/Base_Python"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python.exe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Дз.executor&quot;: &quot;Run&quot;,
+    &quot;Python.да.executor&quot;: &quot;Run&quot;,
+    &quot;Python.дз. 09.09.2025.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/student/Documents/GitHub/Base_Python&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="python.exe" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Base_Python" />
