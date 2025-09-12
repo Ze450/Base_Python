@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="265d3b4e-8f44-4340-9c34-308ae91305a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/да.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/пара 12.09.2025.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/да.py" beforeDir="false" afterPath="$PROJECT_DIR$/да.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +39,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python.exe.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Дз.executor&quot;: &quot;Run&quot;,
-    &quot;Python.да.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз. 09.09.2025.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/student/Documents/GitHub/Base_Python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.python.exe.executor": "Run",
+    "Python.Дз.executor": "Run",
+    "Python.да.executor": "Run",
+    "Python.дз. 09.09.2025.executor": "Run",
+    "Python.пара 12.09.2025.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/student/Documents/GitHub/Base_Python"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\Documents\GitHub\Base_Python" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="python.exe" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Base_Python" />
@@ -104,16 +111,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/дз. 09.09.2025.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
